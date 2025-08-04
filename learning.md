@@ -4,7 +4,7 @@
 
 3. Homophonic Substitution Cipher - In this technique one plain text alphabet can map to more than one cipher text alphabet.
 
-Mono vs Homo, What’s the Real Difference?
+   Mono vs Homo, What’s the Real Difference?
 
-<img width="707" height="421" alt="image" src="https://github.com/user-attachments/assets/7f086530-0349-4a1e-a879-d55d3d6e1534" />
+   <img width="707" height="421" alt="image" src="https://github.com/user-attachments/assets/7f086530-0349-4a1e-a879-d55d3d6e1534" />
 
