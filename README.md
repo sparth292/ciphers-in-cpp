@@ -1,1 +1,1 @@
-Trying to code different cipher techniques in cpp
+Trying to hardcode different cipher techniques in cpp
